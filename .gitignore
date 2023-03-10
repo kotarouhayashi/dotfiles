@@ -17,7 +17,7 @@
 ### neovim
 
 ### zsh
-!.zshrc
+!/.zshrc
 
 ### VSCode
 /.config/Code/**
