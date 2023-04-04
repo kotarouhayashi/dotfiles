@@ -14,6 +14,14 @@
    .bin/install.sh
    ```
 
+1. Install-apt
+
+   ```bash
+   sudo apt update & upgrade
+   sudo apt install apt-clone
+   sudo apt-clone restore-new-distro ~/aptfile.apt-clone.tar.gz
+   ```
+
 ## Components
 
 - zsh
