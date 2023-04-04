@@ -17,6 +17,6 @@
 ## Components
 
 - zsh
-- wezterm
+- wezterm(未)
 - vs code(未)
 - vivaldi(未)
