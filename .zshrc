@@ -96,6 +96,8 @@ alias date="tty-clock -s -C 4"
 # ~$ ./hello.py ←で実行可能
 alias -s {md,markdown,txt}="$EDITOR"
 alias -s py='python3'
+# gnome用の画像ビューア(Eye of GNOME Image Viewer)
+alias -s {png,jpg,bmp,PNG,JPG,BMP}=eog
 # alias -s {html,gif,mp4}='x-www-browser'
 # alias -s {jpg,jpeg,png,bmp}='feh'
 # alias -s mp3='mplayer'
