@@ -156,7 +156,7 @@ DIRSTACKSIZE=100                #ディレクトリスタックの上限数を20
 setopt list_packed              #補完候補をできるだけ詰めて表示する
 setopt auto_param_slash         #ディレクトリ名の補完時に / を付加
 setopt no_beep                  # コマンド入力エラーでビープ音を出す
-setopt   glob_complete          # 現在の単語がグロブパターンのとき、パターンにマッチしたものを生成し、サイクルする
+setopt glob_complete          # 現在の単語がグロブパターンのとき、パターンにマッチしたものを生成し、サイクルする
 # setopt complete_in_word         # 単語の入力途中でもTab補完を有効化
 
 # History
