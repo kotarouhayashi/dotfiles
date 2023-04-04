@@ -23,7 +23,11 @@
 /.config/Code/**
 !/.config/Code/User/*.json
 
-# global #
+### ci
+!/.github/
+!/.github/**
+
+### global
 !/README.md
 !.gitignore
 !/install.sh
