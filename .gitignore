@@ -15,6 +15,9 @@
 /.config/wezterm/local.lua
 
 ### neovim
+/.config/nvim/plugin/**
+!/.nvim/
+!/.nvim/**
 
 ### zsh
 !/.zshrc
