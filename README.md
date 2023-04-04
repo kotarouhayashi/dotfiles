@@ -4,14 +4,14 @@
 1. Download
 
    ```bash
-   git clone https://github.com/yutkat/dotfiles.git
+   git clone ssh://git@github.com:hackrou/dotfiles.git
    cd dotfiles
    ```
 
 1. Install
 
    ```bash
-   ./install.sh
+   .bin/install.sh
    ```
 
 ## Components
