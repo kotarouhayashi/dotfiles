@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin bash
 set -ue
 
 link_to_homedir() {
