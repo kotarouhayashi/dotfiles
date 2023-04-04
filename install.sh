@@ -1,4 +1,4 @@
-#!/usr/bin bash
+#!/usr/bin/usr bash
 set -ue
 
 link_to_homedir() {
