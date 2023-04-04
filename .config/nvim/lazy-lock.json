@@ -1,0 +1,10 @@
+{
+  "Comment.nvim": { "branch": "master", "commit": "8d3aa5c22c2d45e788c7a5fe13ad77368b783c20" },
+  "darcula": { "branch": "master", "commit": "92e8f51d82b36fc6cca148eb98dd3e4cfacc92cd" },
+  "editorconfig-vim": { "branch": "master", "commit": "5b875ac1aeba22abce3c499c0d5e4f33558fdf2c" },
+  "gitsigns.nvim": { "branch": "main", "commit": "b1f9cf7c5c5639c006c937fc1819e09f358210fc" },
+  "lazy.nvim": { "branch": "main", "commit": "6b55862d2d264f0b48e0b9e42cc2d14f136bed55" },
+  "lualine.nvim": { "branch": "master", "commit": "e99d733e0213ceb8f548ae6551b04ae32e590c80" },
+  "nvim-tree.lua": { "branch": "master", "commit": "1d79a64a88af47ddbb55f4805ab537d11d5b908e" },
+  "nvim-web-devicons": { "branch": "master", "commit": "f1b1cee3a561590a6c1637a9326c406f6e4af914" }
+}
