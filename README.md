@@ -19,4 +19,4 @@
 - zsh
 - wezterm(未)
 - vs code(未)
-- vivaldi(未)
+- nvim(未完)
