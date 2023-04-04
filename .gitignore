@@ -26,3 +26,4 @@
 # global #
 !/README.md
 !.gitignore
+!/install.sh
