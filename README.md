@@ -17,6 +17,6 @@
 ## Components
 
 - zsh
-- wezterm(未)
+- wezterm
 - vs code(未)
 - nvim(未完)
