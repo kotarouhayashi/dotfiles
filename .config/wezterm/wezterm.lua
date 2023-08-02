@@ -25,7 +25,7 @@ return {
       action = wezterm.action{SplitHorizontal={domain="CurrentPaneDomain"}},
     },
   },
-  font = wezterm.font("UDEV Gothic 35NFLG", {weight="Bold", stretch="Normal", style="Normal"}),
+  -- font = wezterm.font("UDEV Gothic 35NFLG", {weight="Bold", stretch="Normal", style="Normal"}),
   use_ime = true, -- wezは日本人じゃないのでこれがないとIME動かない
   font_size = 11.0,
   color_scheme = "tender (base16)", -- 自分の好きなテーマ探す https://wezfurlong.org/wezterm/colorschemes/index.html
